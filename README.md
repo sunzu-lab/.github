@@ -1,4 +1,4 @@
-# Sun ZU Lab
+# Sun Zu Lab
 
 ## Transparency is the foundation of trust
 
